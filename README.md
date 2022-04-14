@@ -1,19 +1,19 @@
-# Hey, I'm Bruno Roja 👋🏻
-## Who am I? 👦🏻
+<h2 align="center"># Hey, I'm Bruno Roja 👋🏻</h2>
+<h2 align="center">## Who am I? 👦🏻</h2>
 
-👨🏻‍💻 I'm a Full-Stack Web Developer Student at Trybe. 👨🏻‍🎓
+<h3 align="center">👨🏻‍💻 I'm a Full-Stack Web Developer Student at Trybe. 👨🏻‍🎓</h3>
 </br>
-🏃🏻 Never accommodated! 
+<h3 align="center">🏃🏻 Never accommodated!</h3>
 </br>
-💡 I'm passionate about solving hard logic problems and learning. Always open to new challenges and ready to face changes.
+<h3 align="center">💡 I'm passionate about solving hard logic problems and learning. Always open to new challenges and ready to face changes.</h3>
 </br>
-🌎 Travel the world open wide with my family is my dream. Maybe in a motorhome, who knows.
+<h3 align="center">🌎 Travel the world open wide with my family is my dream. Maybe in a motorhome, who knows.</h3>
 </br>
-⚔️ Logic Warrior under development
+<h3 align="center">⚔️ Logic Warrior under development</h3>
 </br>
 <img src="https://www.codewars.com/users/brunojlee/badges/large">
 
-<h3 align="center">📍From Campo Grande - MS 🇧🇷</h2>
+<h3 align="center">📍From Campo Grande - MS 🇧🇷</h3>
 
 <h2 align="center">Portifólio GitHub Pages:</h2>
  
