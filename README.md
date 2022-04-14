@@ -1,5 +1,5 @@
-#<h2 align="center">Hey, I'm Bruno Roja 👋🏻</h2>
-##<h2 align="center">Who am I? 👦🏻</h2>
+<h2 align="center">Hey, I'm Bruno Roja 👋🏻</h2>
+<h2 align="center">Who am I? 👦🏻</h2>
 
 <h3 align="center">👨🏻‍💻 I'm a Full-Stack Web Developer Student at Trybe. 👨🏻‍🎓</h3>
 <h3 align="center">🏃🏻 Never accommodated!</h3>
