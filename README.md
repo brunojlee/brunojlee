@@ -11,7 +11,7 @@
 </br>
 <h3 align="center">⚔️ Logic Warrior under development</h3>
 </br>
-<img src="https://www.codewars.com/users/brunojlee/badges/large">
+<div align="center"><img src="https://www.codewars.com/users/brunojlee/badges/large"></div>
 
 <h3 align="center">📍From Campo Grande - MS 🇧🇷</h3>
 
