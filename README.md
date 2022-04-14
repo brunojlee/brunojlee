@@ -13,9 +13,17 @@
 </br>
 <img src="https://www.codewars.com/users/brunojlee/badges/large">
 
- - 📍From Campo Grande - MS 🇧🇷
- - 📄 See my <a href = "https://brunojlee.github.io/">Portfólio</a> to know me better.
+<h3 align="center">📍From Campo Grande - MS 🇧🇷</h2>
 
+<h2 align="center">Portifólio GitHub Pages:</h2>
+ 
+ <div align="center">
+   <a href="https://brunojlee.github.io/ecommerce/" target="_blank">
+    <img width='100px' src='https://github.com/brunojlee/ecommerce/blob/main/src/files/images/bgGH.jpg' target="_blank" />
+ </div>
+ 
+<h5 align="center">Clique na imagem</h5>
+ 
 ## 🖥️ Technologies
 
 <div style="display: inline_block"><br>
