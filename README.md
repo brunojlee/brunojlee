@@ -2,15 +2,10 @@
 <h2 align="center">## Who am I? 👦🏻</h2>
 
 <h3 align="center">👨🏻‍💻 I'm a Full-Stack Web Developer Student at Trybe. 👨🏻‍🎓</h3>
-</br>
 <h3 align="center">🏃🏻 Never accommodated!</h3>
-</br>
 <h3 align="center">💡 I'm passionate about solving hard logic problems and learning. Always open to new challenges and ready to face changes.</h3>
-</br>
 <h3 align="center">🌎 Travel the world open wide with my family is my dream. Maybe in a motorhome, who knows.</h3>
-</br>
 <h3 align="center">⚔️ Logic Warrior under development</h3>
-</br>
 <div align="center"><img src="https://www.codewars.com/users/brunojlee/badges/large"></div>
 
 <h3 align="center">📍From Campo Grande - MS 🇧🇷</h3>
@@ -24,9 +19,9 @@
  
 <h5 align="center">Clique na imagem</h5>
  
-## 🖥️ Technologies
+<h2 align="center">## 🖥️ Technologies</h2>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">  
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
@@ -50,24 +45,24 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
  
-## 📱Contact me
+<h2 align="center">## 📱Contact me</h2>
 
-<div>
+<div align="center">
 <a href = "mailto:brunojlee@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href = "mailto:brunojlee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://api.whatsapp.com/send?phone=5567999853296"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
- ## 👍 Follow me
+<h2 align="center">## 👍 Follow me</h2>
  
-<div> 
+<div align="center"> 
 <a href="https://www.instagram.com/brunojlee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/brunojlee" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/brunojlee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
  ## 
-<div>
+<div align="center">
 <a href="https://github.com/brunojlee">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunojlee&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojlee&layout=compact&langs_count=16&theme=kacho_ga"/>
