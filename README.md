@@ -9,7 +9,8 @@
 </br>
 🌎 Travel the world open wide with my family is my dream. Maybe in a motorhome, who knows.
 </br>
-⚔️ Logic Warrior under development  <img src="https://www.codewars.com/users/brunojlee/badges/micro">
+⚔️ Logic Warrior under development
+<img src="https://www.codewars.com/users/brunojlee/badges/micro">
 
  - 📍From Campo Grande - MS 🇧🇷
  - 📄 See my <a href = "https://brunojlee.github.io/">Portfólio</a> to know me better.
