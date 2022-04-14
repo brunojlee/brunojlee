@@ -19,7 +19,7 @@
  
 <h5 align="center">Clique na imagem</h5>
  
-##<h2 align="center">🖥️ Technologies</h2>
+<h2 align="center">🖥️ Technologies</h2>
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
  
-##<h2 align="center">📱Contact me</h2>
+<h2 align="center">📱Contact me</h2>
 
 <div align="center">
 <a href = "mailto:brunojlee@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
@@ -53,7 +53,7 @@
 <a href = "https://api.whatsapp.com/send?phone=5567999853296"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-##<h2 align="center"> 👍 Follow me</h2>
+<h2 align="center"> 👍 Follow me</h2>
  
 <div align="center"> 
 <a href="https://www.instagram.com/brunojlee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
