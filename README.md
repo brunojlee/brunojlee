@@ -13,7 +13,7 @@
 <h2 align="center">Portifólio GitHub Pages:</h2>
  
  <div align="center">
-   <a href="https://brunojlee.github.io/ecommerce/" target="_blank">
+   <a href="https://brunojlee.github.io/" target="_blank">
     <img width='100px' src='https://github.com/brunojlee/ecommerce/blob/main/src/files/images/bgGH.jpg' target="_blank" />
  </div>
  
