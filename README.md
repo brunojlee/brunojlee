@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest--F05032?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Testing%20Library-FFFFFF?style=for-the-badge&logo=testinglibrary&logoColor=white%22">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  
