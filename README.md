@@ -69,7 +69,7 @@
  ## 
 <div align="center">
 <a href="https://github.com/brunojlee">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunojlee&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojlee&layout=compact&langs_count=16&theme=kacho_ga"/>
+<img height="180em" src="https://brunojlee-github-stats.vercel.app/api?username=brunojlee&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"/>
+<img height="180em" src="https://brunojlee-github-stats.vercel.app/api/top-langs/?username=brunojlee&layout=compact&langs_count=16&theme=kacho_ga"/>
 </div>
  
